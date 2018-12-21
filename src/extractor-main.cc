@@ -13,9 +13,9 @@
 //  If not, see <http://www.gnu.org/licenses/>.
 //========================================================================
 /*!
-\file    make_data_standard.cpp
-\brief   Converts CoBot bag files to ROS conventions.
-\author  Joydeep Biswas, (C) 2012
+\file    extractor_main.cpp
+\brief   Load ROS bag files and extract scans to binary files.
+\author  Joydeep Biswas, (C) 2018
 */
 //========================================================================
 
